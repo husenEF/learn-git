@@ -6,3 +6,4 @@ how to commit
 ## learn git https
 
 ## update from branch DEV
+## update from branch DEV 2
