@@ -7,3 +7,4 @@ how to commit
 
 ## update from branch DEV
 ## update from branch DEV 2
+## update from branch DEV 3
