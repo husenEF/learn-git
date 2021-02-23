@@ -8,7 +8,7 @@ how to commit
 ## from branch development
 ## update from branch DEV 2
 ## from brach development 6
-## update from branch DEV 3
+## update from branch DEV 4
 
 ## from brach development 2
 ## from brach development 3
