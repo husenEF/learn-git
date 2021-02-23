@@ -11,3 +11,4 @@ how to commit
 ## update from branch DEV 3
 
 ## from brach development 2
+## from brach development 3
